@@ -22,6 +22,7 @@ ChatGPT / Codex 可直接复制 SKILL.md 内容到 Custom Instructions。
 | 技能 | 类别 | 说明 |
 |------|------|------|
 | [progressive-teaching](skills/teaching/progressive-teaching/) | 教学 | 循序渐进分步教学，每次只教一个知识点 |
+| [csdn-publish](skills/publish/csdn-publish/) | 发布 | 通过浏览器自动化把本地 Markdown 发布到 CSDN 草稿箱 |
 
 ## 添加新技能
 
