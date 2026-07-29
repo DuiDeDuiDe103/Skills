@@ -14,16 +14,18 @@
 | QoderCLI CN | `~/.qoder/skills/<技能名>/` |
 | Claude Code | `~/.claude/skills/<技能名>/` |
 | WorkBuddy | `~/.workbuddy/skills/<技能名>/` |
+| Codex | `~/.codex/skills/<技能名>/` |
 
-ChatGPT / Codex 可直接复制 SKILL.md 内容到 Custom Instructions。
+Codex 安装后可通过 `$<技能名>` 主动调用；符合 `SKILL.md` 中的触发描述时也可以自动启用。
 
 ## 当前技能
 
 | 技能 | 类别 | 说明 |
 |------|------|------|
-| [progressive-teaching](skills/teaching/progressive-teaching/) | 教学 | 循序渐进分步教学，每次只教一个知识点 |
+| [progressive-teaching](skills/teaching/progressive-teaching/) | 教学 | 根据问题难度和用户反馈自适应讲解深度的循序渐进教学 |
 | [reverse-design](skills/teaching/reverse-design/) | 教学 | 逆向工程式学习——先从零设计再对比源码，深入理解项目架构 |
 | [csdn-publish](skills/publish/csdn-publish/) | 发布 | 通过浏览器自动化把本地 Markdown 发布到 CSDN 草稿箱 |
+| [technical-article-analyzer](skills/analysis/technical-article-analyzer/) | 分析 | 从系统架构视角分析技术文章的定位、流程、设计选择与工程风险 |
 
 ## 添加新技能
 

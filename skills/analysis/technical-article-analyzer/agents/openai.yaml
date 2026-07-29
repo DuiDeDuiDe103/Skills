@@ -1,0 +1,4 @@
+interface:
+  display_name: "Technical Article Analyzer"
+  short_description: "从系统架构视角分析技术文章、实现流程、设计选择与工程风险"
+  default_prompt: "使用 $technical-article-analyzer 分析这篇技术文章的核心问题、系统定位、执行流程和工程风险。"
