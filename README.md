@@ -20,12 +20,13 @@ Codex 安装后可通过 `$<技能名>` 主动调用；符合 `SKILL.md` 中的�
 
 ## 当前技能
 
-| 技能 | 类别 | 说明 |
-|------|------|------|
-| [progressive-teaching](skills/teaching/progressive-teaching/) | 教学 | 根据问题难度和用户反馈自适应讲解深度的循序渐进教学 |
-| [reverse-design](skills/teaching/reverse-design/) | 教学 | 逆向工程式学习——先从零设计再对比源码，深入理解项目架构 |
-| [csdn-publish](skills/publish/csdn-publish/) | 发布 | 通过浏览器自动化把本地 Markdown 发布到 CSDN 草稿箱 |
-| [technical-article-analyzer](skills/analysis/technical-article-analyzer/) | 分析 | 从系统架构视角分析技术文章的定位、流程、设计选择与工程风险 |
+| 技能 | 类别 | 说明 | 来源 |
+|------|------|------|------|
+| [progressive-teaching](skills/teaching/progressive-teaching/) | 教学 | 根据问题难度和用户反馈自适应讲解深度的循序渐进教学 | 本仓库 |
+| [reverse-design](skills/teaching/reverse-design/) | 教学 | 逆向工程式学习——先从零设计再对比源码，深入理解项目架构 | 本仓库 |
+| [csdn-publish](skills/publish/csdn-publish/) | 发布 | 通过浏览器自动化把本地 Markdown 发布到 CSDN 草稿箱 | 本仓库 |
+| [technical-article-analyzer](skills/analysis/technical-article-analyzer/) | 分析 | 从系统架构视角分析技术文章的定位、流程、设计选择与工程风险 | 本仓库 |
+| [frontend-design](skills/design/frontend-design/) | 设计 | 构建或重塑 UI 时提供有辨识度、有取舍的视觉设计指导 | [anthropics/skills](https://github.com/anthropics/skills/tree/main/skills/frontend-design)，Apache-2.0 |
 
 ## 添加新技能
 
