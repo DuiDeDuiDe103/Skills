@@ -2,6 +2,8 @@
 
 个人 AI Agent 技能集合，跨平台复用。
 
+维护、迁移和交接规则见 [MAINTENANCE.md](MAINTENANCE.md)。
+
 ## 使用方式
 
 每个技能是一个包含 `SKILL.md` 的文件夹，按类别组织在 `skills/` 目录下。
